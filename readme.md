@@ -1,4 +1,4 @@
-<div class="display-1" align="center"> Blog </div>
+<div align="center"> Blog </div>
 ## Home Page
 ![home](https://user-images.githubusercontent.com/33843231/70906016-972bc000-202f-11ea-86c7-54dbf138cc7f.jpg)
 ## Contact Message
