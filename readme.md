@@ -1,4 +1,19 @@
 # BLOG
+## About
+This is a blog with some beautiful features and functionality. Home page is showing the posts from admin panel. User can see the posts and also can say something through sending message.
+Programming language used: Laravel Framework, HTML, CSS, JavaScript.
+
+## Installation
+Run git clone https://github.com/shahinislam/blog.git
+Run composer install (install composer beforehand)
+From the projects root run cp .env.example .env
+Configure your .env file
+Run php artisan key:generate
+Run php artisan config:cache
+Run php artisan migrate
+Run php db:seed
+
+
 ## Home Page
 ![home](https://user-images.githubusercontent.com/33843231/70906016-972bc000-202f-11ea-86c7-54dbf138cc7f.jpg)
 ## Contact Message
