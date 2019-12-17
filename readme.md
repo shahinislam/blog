@@ -4,15 +4,15 @@ This is a blog with some beautiful features and functionality. Home page is show
 Programming language used: Laravel Framework, HTML, CSS, JavaScript.
 
 ## Installation
--Run git clone https://github.com/shahinislam/blog.git <br/>
--Run composer install <br/>
--Keep Project in local server <br/>
--Open command prompt in project directory <br/>
--Configure your .env file <br/>
--php artisan key:generate <br/>
--php artisan config:cache <br/>
--php artisan migrate <br/>
--php db:seed <br/>
+- Run git clone https://github.com/shahinislam/blog.git <br/>
+- Run composer install <br/>
+- Keep Project in local server <br/>
+- Open command prompt in project directory <br/>
+- Configure your .env file <br/>
+- php artisan key:generate <br/>
+- php artisan config:cache <br/>
+- php artisan migrate <br/>
+- php db:seed <br/>
 
 
 ## Home Page
