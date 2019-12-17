@@ -1,17 +1,17 @@
 # BLOG
 ## About
-This is a blog with some beautiful features and functionality. Home page is showing the posts from admin panel. User can see the posts and also can say something through sending message.
+This is a blog with some beautiful features and functionality. Home page is showing the posts from admin panel. User can see the posts and also can say something through sending message.<br/>
 Programming language used: Laravel Framework, HTML, CSS, JavaScript.
 
 ## Installation
-Run git clone https://github.com/shahinislam/blog.git
-Run composer install (install composer beforehand)
-From the projects root run cp .env.example .env
-Configure your .env file
-Run php artisan key:generate
-Run php artisan config:cache
-Run php artisan migrate
-Run php db:seed
+Run git clone https://github.com/shahinislam/blog.git <br/>
+Run composer install (install composer beforehand) <br/>
+From the projects root run cp .env.example .env <br/>
+Configure your .env file <br/>
+Run php artisan key:generate <br/>
+Run php artisan config:cache <br/>
+Run php artisan migrate <br/>
+Run php db:seed <br/>
 
 
 ## Home Page
